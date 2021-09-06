@@ -1,0 +1,9 @@
+export 'OnBoarding.dart';
+export 'sign_up.dart';
+export 'sign_in.dart';
+export 'forgot_password.dart';
+export 'check_email.dart';
+export 'verification.dart';
+export 'verified.dart';
+export 'home_page.dart';
+export 'product_page.dart';
